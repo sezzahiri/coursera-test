@@ -14,13 +14,15 @@ h1 {
   border-color: black;
 }
 #title {
+  width: 20%;
+  left: 80%;
   background-color: blue;
   position: relative;
-  text-align: right;
+  text-align: center;
   color:white;
   margin-top: 4px;
   margin-right: 0px;
-  font-size: larger;
+  --font-size: larger;
   bottom : 5px;
   font-family: Helvetica;
 }
