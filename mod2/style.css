@@ -12,7 +12,9 @@ h1 {
   background-color: grey;
   position: relative;
   border-color: black;
+  margin-bottom: 15px;
 }
+
 #title {
   width: 20%;
   left: 80%;
@@ -30,6 +32,7 @@ h1 {
 #text {
  position: relative;
  text-align: left;
+ margin-left: 15px;
 }
 /* Simple Responsive Framework. */
 .row {
