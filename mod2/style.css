@@ -5,11 +5,12 @@
 h1 {
   margin-bottom: 30px;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Comic Sans MS;
+  color  : #b30047;
 }
 
 #container {
-  background-color: grey;
+  background-color: #cccccc;
   position: relative;
   border-color: black;
   margin-bottom: 15px;
@@ -26,7 +27,7 @@ h1 {
   margin-right: 0px;
   --font-size: larger;
   bottom : 5px;
-  font-family: Helvetica;
+  font-family: Comic Sans MS;
 }
 
 #text {
